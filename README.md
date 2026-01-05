@@ -2,7 +2,8 @@
 
 AstrBot 插件模板
 
-A template plugin for AstrBot plugin feature
+ai写的，没啥好说的
+
 
 # 支持
 
